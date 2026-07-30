@@ -34,12 +34,12 @@ Building scalable backend systems, modern web applications, and AI-powered solut
 ## GitHub Stats:
 
 <p align="center">
-  <img width="45%" src="./profile/stats.svg"/>
-  <img width="34%" src="./profile/top-langs.svg"/>
+  <img width="39%" src="./profile/stats.svg"/>
+  <img width="29%" src="./profile/top-langs.svg"/>
 </p>
 
 <p align="center">
-  <img width="50%" src="https://streak-stats.demolab.com?user=nikhilach7&theme=github-dark-blue&hide_border=true"/>
+  <img width="40%" src="https://streak-stats.demolab.com?user=nikhilach7&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 ---
