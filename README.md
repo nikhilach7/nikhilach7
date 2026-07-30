@@ -34,12 +34,12 @@ Building scalable backend systems, modern web applications, and AI-powered solut
 ## GitHub Statistics:
 
 <p align="center">
-  <img width="38%" src="https://github-readme-stats.shion.dev/api?username=nikhilach7&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
-  <img width="30%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=nikhilach7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+  <img width="49%" src="./profile/stats.svg"/>
+  <img width="38%" src="./profile/top-langs.svg"/>
 </p>
 
 <p align="center">
-  <img width="45%" src="https://streak-stats.demolab.com/?user=nikhilach7&theme=dark&hide_border=false"/>
+  <img width="65%" src="https://streak-stats.demolab.com?user=nikhilach7&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 ---
